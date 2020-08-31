@@ -1,1 +1,1 @@
-# Strepic_Web_Project
+# Stepic_Web_Project
